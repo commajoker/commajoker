@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @commajoker
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on website-building/ application of AI in the engineering world/ basic or advanced C++ program (albeit i am a freshman now)
+- 📫 You can reach me by sending emails to bbbastille@gmail.com
+- 
